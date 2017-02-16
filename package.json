@@ -1,6 +1,12 @@
 {
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "immutable": "^3.8.1",
     "normalizr": "^3.2.1"
+  },
+  "devDependencies": {
+    "jest": "^18.1.0"
   }
 }
